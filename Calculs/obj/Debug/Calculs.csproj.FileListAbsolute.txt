@@ -12,3 +12,10 @@ C:\Users\matou\Downloads\Calculs\Calculs\Calculs\obj\Debug\Calculs.csprojAssembl
 C:\Users\matou\Downloads\Calculs\Calculs\Calculs\obj\Debug\Calculs.csproj.CoreCompileInputs.cache
 C:\Users\matou\Downloads\Calculs\Calculs\Calculs\obj\Debug\Calculs.exe
 C:\Users\matou\Downloads\Calculs\Calculs\Calculs\obj\Debug\Calculs.pdb
+C:\Users\matou\Source\Repos\Calculs\Calculs\obj\Debug\Calculs.csprojAssemblyReference.cache
+C:\Users\matou\Source\Repos\Calculs\Calculs\obj\Debug\Calculs.csproj.CoreCompileInputs.cache
+C:\Users\matou\Source\Repos\Calculs\Calculs\obj\Debug\Calculs.exe
+C:\Users\matou\Source\Repos\Calculs\Calculs\obj\Debug\Calculs.pdb
+C:\Users\matou\Source\Repos\Calculs\Calculs\bin\Debug\Calculs.exe.config
+C:\Users\matou\Source\Repos\Calculs\Calculs\bin\Debug\Calculs.exe
+C:\Users\matou\Source\Repos\Calculs\Calculs\bin\Debug\Calculs.pdb
